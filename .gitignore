@@ -8,3 +8,5 @@
 /.purs*
 /.psa*
 /.vscode/
+/.spago/
+/output-pulp/
