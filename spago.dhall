@@ -17,6 +17,7 @@ to generate this file without the comments in this block.
   , "maybe"
   , "nullable"
   , "prelude"
+  , "react-basic-dom"
   , "react-basic-hooks"
   , "web-dom"
   ]
